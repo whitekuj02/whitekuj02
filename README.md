@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=uijin`s%20Repo.&fontSize=90&animation=fadeIn)
