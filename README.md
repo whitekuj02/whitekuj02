@@ -17,7 +17,7 @@
   
 
   
-  ![swiftsjh02's github stats](https://github-readme-stats.vercel.app/api?username=swiftsjh02&show_icons=true)
+  ![whitekuj02's github stats](https://github-readme-stats.vercel.app/api?username=whitekuj02&show_icons=true)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Beyond%20the%20Limit&fontSize=90)
