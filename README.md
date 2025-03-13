@@ -1,8 +1,13 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=uijin`s%20Repo.&fontSize=90&animation=fadeIn)
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/whitekuj02"
+  width="800"
+  height="250"
+/>
+</a>
   <h1>Introduction</h1>
   <p>Junior ,School of AI.Software,Gachon University,South Korea</p>
   <p>Interests: Algorithm,Web,Network,A.I.,Mobile Application,,</p>
