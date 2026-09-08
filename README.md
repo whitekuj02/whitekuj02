@@ -10,7 +10,7 @@
 | Area                   | Topics                                                                              |
 | ---------------------- | ----------------------------------------------------------------------------------- |
 | **AI for Security**    | Automated Vulnerability Analysis, Security Automation, AI-assisted Program Analysis |
-| **Security for AI**    | AI Agent Security, Access Control, Information Flow Control                         |
+| **Security for AI**    | AI Agent Security, Guardrail, Red teaming, Access control                           |
 | **Machine Learning**   | GNN, LLM / RAG, Computer Vision, NLP                                                |
 
 ### Tech Stack
